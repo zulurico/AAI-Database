@@ -41,7 +41,7 @@ The project uses a SQL database which gaurantees ACID properties and the front e
 ## Security Through Md5 Encryption
 The security of user password is ensured through Md5 Encryption.
 The password is stored in database in encrypted form ensuring that user's safety is upheld.
-![image](images/Md5.png)
+![image](images/MD5.png)
 
 ## Screenshots of Web Portal 
 ![image](images/Wb1.png)
